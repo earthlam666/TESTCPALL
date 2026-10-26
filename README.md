@@ -1,2 +1,0 @@
-# TESTCPALL
-Test CP ALL
